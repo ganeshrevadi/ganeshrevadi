@@ -8,7 +8,7 @@ I am a Android Developer and ML enthusiast
 * ✉️  You can contact me at [ganeshrevadi16@gamail.com](mailto:ganeshrevadi16@gamail.com)
 * 🧠  I'm learning Data Structures and Algorithms
 * 🤝  I'm open to collaborating on Web Development ,Android Dev and ML models
-* ⚡  I'm BATMAN , Tell Everyone.
+* ⚡  Looking for Working with Startups
 
 ### Skills
 
