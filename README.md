@@ -50,7 +50,7 @@ I am a Android Developer and ML enthusiast
 
 <a href="https://github.com/ganeshrevadi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshrevadi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
  <p align="center">
- <img  height="200" width="700" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/opnakama9.jpg"/>
+ <img  height="200" width="700" src="https://pin.it/58cjBi2"/>
 </p>
 
 ### Sayonara, Visitor!
