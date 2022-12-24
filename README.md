@@ -11,8 +11,9 @@ I am a Android Developer and ML enthusiast
 * ⚡  Looking for Working with Startups
 
 
-<p float ="right">
-<img  height="251" width="420" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/5cms.gif"/>
+<p >
+<img align="left"  height="251" width="420" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/5cms.gif"/>
+<img align="right"  height="251" width="420" src="familyguy.gfif"/>
 </p>
 
 
