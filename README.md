@@ -11,7 +11,7 @@ I am a Android Developer and ML enthusiast
 * ⚡  Looking for Working with Startups
 
 
-<p float = "left">
+<p float = "right">
 <img align="left"  height="251" width="420" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/5cms.gif"/>
 
 </p>
