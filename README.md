@@ -4,28 +4,25 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Android Developer and ML enthusiast
 ------------------------------------------
 
+<p>
+
 * 🌍  I'm based in Banglore
 * ✉️  You can contact me at [ganeshrevadi16@gamail.com](mailto:ganeshrevadi16@gamail.com)
 * 🧠  I'm learning Data Structures and Algorithms
 * 🤝  I'm open to collaborating on Web Development ,Android Dev and ML models
 * ⚡  Looking for Working with Startups
+ 
+<img align="right"  height="251" width="420" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/5cms.gif"/>
 
+ </p>
 
-<p float = "left">
-<img align="left"  height="251" width="420" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/5cms.gif"/>
-</p>
-
-<p float = "right">
-<img align="left"  height="251" width="420" src="familyguy.jfif"/>
-</p>
-<br>
 
 
 
 
 ### Skills
 
-<p align="middle">
+<p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -54,7 +51,7 @@ I am a Android Developer and ML enthusiast
 
 <a href="http://www.github.com/ganeshrevadi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshrevadi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/ganeshrevadi"><img src="https://activity-graph.herokuapp.com/graph?username=ganeshrevadi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 <a href="https://github.com/ganeshrevadi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshrevadi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
  <p align="center">
