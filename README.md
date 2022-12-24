@@ -18,6 +18,7 @@ I am a Android Developer and ML enthusiast
 <p float = "right">
 <img align="left"  height="251" width="420" src="familyguy.jfif"/>
 </p>
+<br>
 
 
 
