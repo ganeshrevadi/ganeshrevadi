@@ -9,16 +9,12 @@ I am a Android Developer and ML enthusiast
 * 🧠  I'm learning Data Structures and Algorithms
 * 🤝  I'm open to collaborating on Web Development ,Android Dev and ML models
 * ⚡  Looking for Working with Startups
-![](https://visitor-badge.glitch.me/badge?page_id=ganeshrevadi.ganeshrevadi)
+
 
 <p float ="right">
 <img  height="251" width="420" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/5cms.gif"/>
-
 </p>
-  #### Tasks:
-  - [x] Born
-  - [ ] Get a 'Job'
-  - [ ] Die 
+
 
 
 ### Skills
