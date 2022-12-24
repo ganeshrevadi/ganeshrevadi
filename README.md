@@ -9,11 +9,16 @@ I am a Android Developer and ML enthusiast
 * 🧠  I'm learning Data Structures and Algorithms
 * 🤝  I'm open to collaborating on Web Development ,Android Dev and ML models
 * ⚡  Looking for Working with Startups
+![](https://visitor-badge.glitch.me/badge?page_id=ganeshrevadi.ganeshrevadi)
 
 <p float ="right">
 <img  height="251" width="420" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/5cms.gif"/>
-<img  height="170" width="420" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in" alt="Quotes Card" />
+
 </p>
+  #### Tasks:
+  - [x] Born
+  - [ ] Get a 'Job'
+  - [ ] Die 
 
 
 ### Skills
@@ -37,6 +42,7 @@ I am a Android Developer and ML enthusiast
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/Ganesh#5113" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/ganeshrevadi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_ganeshh23_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/Ganesh Revadi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/Ganeshrevadi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ganeshrevadi16" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 
 ### Badges
 
