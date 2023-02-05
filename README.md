@@ -9,8 +9,8 @@ I am a Android Developer and ML enthusiast
 * 🌍  I'm based in Banglore
 * ✉️  You can contact me at [ganeshrevadi16@gamail.com](mailto:ganeshrevadi16@gamail.com)
 * 🧠  I'm learning Data Structures and Algorithms
-* 🤝  I'm open to collaborating on Web Development ,Android Dev and ML models
-* ⚡  Looking for Working with Startups
+* 🤝  I'm open to collaborating on Web Development ,Android Dev and ML
+
  
 <img align="right"  height="251" width="420" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/5cms.gif"/>
 
