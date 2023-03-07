@@ -59,11 +59,11 @@ I am a Android Developer and ML enthusiast
 
 <a href="http://www.github.com/ganeshrevadi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ganeshrevadi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+ ### Visitor Count 📌
+![Visitor Count](https://profile-counter.glitch.me/{ganeshrevadi}/count.svg)
+
  <p align="center">
  <img  height="200" width="700" src="1080x360.jpg"/>
  </p>
- 
- ### Visitor Count 📌
-![Visitor Count](https://profile-counter.glitch.me/{ganeshrevadi}/count.svg)
 
 ### Adiós, Visitor!
