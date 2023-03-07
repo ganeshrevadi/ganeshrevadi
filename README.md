@@ -59,7 +59,8 @@ I am a Android Developer and ML enthusiast
 
  <p align="center">
  <img  height="200" width="700" src="1080x360.jpg"/>
+ </p>
  
-</p>
+ ${ganeshrevadi}.${ganeshrevadi}, https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
 
 ### Adiós, Visitor!
