@@ -55,7 +55,7 @@ I am a Android Developer and ML enthusiast
 
 <a href="http://www.github.com/ganeshrevadi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshrevadi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<p align="left">![Visitor Count](https://profile-counter.glitch.me/{ganeshrevadi}/count.svg)</p>
+
 
 <a href="http://www.github.com/ganeshrevadi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ganeshrevadi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
@@ -63,6 +63,7 @@ I am a Android Developer and ML enthusiast
  <img  height="200" width="700" src="1080x360.jpg"/>
  </p>
  
-
+ ### Visitor Count 📌
+![Visitor Count](https://profile-counter.glitch.me/{ganeshrevadi}/count.svg)
 
 ### Adiós, Visitor!
