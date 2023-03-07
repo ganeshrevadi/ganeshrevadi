@@ -61,6 +61,6 @@ I am a Android Developer and ML enthusiast
  <img  height="200" width="700" src="1080x360.jpg"/>
  </p>
  
- ${ganeshrevadi}.${ganeshrevadi}, https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
+![Visitor Count](https://profile-counter.glitch.me/{ganeshrevadi}/count.svg)
 
 ### Adiós, Visitor!
