@@ -42,5 +42,3 @@ I am a Developer
  </p>
 
 ### Adiós, Visitor!
-
-
