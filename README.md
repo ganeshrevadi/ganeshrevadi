@@ -36,6 +36,8 @@ I am a Developer
  ### Visitor Count 📌
 ![Visitor Count](https://profile-counter.glitch.me/{ganeshrevadi}/count.svg)
 
+[![An image of @ganeshrevadi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ganeshrevadi)](https://holopin.io/@ganeshrevadi)
+
  <p align="center">
  <img  height="200" width="700" src="1080x360.jpg"/>
  </p>
